@@ -1,0 +1,98 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 19 17:09:51.359539 2021] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Mon Apr 19 17:09:51.359637 2021] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 19 17:09:53.417486 2021] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Mon Apr 19 17:09:53.417590 2021] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Apr 19 17:11:25.045946 2021] [php7:error] [pid 12] [client 172.22.0.2:58792] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /var/www/html/connection.php on line 13, referer: http://192.168.1.9:8832/login.php
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.31.0.4. Set the 'ServerName' directive globally to suppress this message
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.31.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 02:55:44.119297 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 02:55:44.121757 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 02:55:44.121837 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Apr 20 02:55:44.119362 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 02:58:36.030117 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 02:58:36.030183 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 02:58:36.188771 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 02:58:36.188838 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.16.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 03:01:59.359550 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 03:01:59.359609 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.16.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 03:02:00.108012 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 03:02:00.108092 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.32.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 03:21:46.355984 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 03:21:46.356065 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.32.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 03:21:46.942087 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 03:21:46.942157 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 03:23:08.089818 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 03:23:08.089897 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 03:23:08.675858 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 03:23:08.675928 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.64.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 03:50:35.740731 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 03:50:35.740828 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.64.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 03:50:36.399113 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 03:50:36.399169 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:08:19.238868 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:08:19.238926 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:08:19.803503 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:08:19.803567 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.96.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:10:25.641477 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:10:25.641534 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.96.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:10:25.705746 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:10:25.705801 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.96.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:11:46.635038 2021] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 20 04:11:46.642173 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:11:46.642206 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.96.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:11:47.241901 2021] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 20 04:11:47.244599 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:11:47.244621 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.112.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:15:27.161951 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:15:27.162019 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.112.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:15:27.788820 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:15:27.788887 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.240.4. Set the 'ServerName' directive globally to suppress this message
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.240.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:32:28.334562 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:32:28.334629 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Apr 20 04:32:28.338243 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:32:28.338310 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:35:08.994829 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:35:08.994906 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:35:09.133448 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:35:09.133509 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:37:56.906524 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:37:56.906597 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:37:56.974957 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:37:56.975019 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:40:09.577755 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:40:09.577832 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:40:10.180864 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:40:10.180918 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 20 04:50:27.200762 2021] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 20 04:50:27.202872 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.38 (Debian) configured -- resuming normal operations
+[Tue Apr 20 04:50:27.202893 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Apr 20 04:51:05.507965 2021] [php7:warn] [pid 10] [client 172.20.0.3:40906] PHP Warning:  pg_query(): Query failed: ERROR:  duplicate key value violates unique constraint &quot;users_pkey&quot;\nDETAIL:  Key (user_login)=(pavel) already exists. in /var/www/html/register.php on line 32, referer: http://localhost:8832/register.php
